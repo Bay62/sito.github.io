@@ -1,17 +1,17 @@
-<!DOCTYPE html>
 <html>
 <head>
+  <title>SCP Elite Italian Server</title>
 <style>
 body {
-  background-color: black;
+  background-color: #202124;
 }
 </style>
 </head>
 <body>
 
-<center><h1>Benvenuto</h1></center>
+<center><h1>Benvenuto su <a href="http://discord.gg/utHBa9s">SCP Elite Italian Server</a>.</h1></center>
 
-  <p>Prova</p>
+  <p>Testo...</p>
 
 </body>
 </html>
